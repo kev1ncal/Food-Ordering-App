@@ -1,4 +1,4 @@
-![Image of Food Ordering App] (/assets/images/github_images/snapdeliv.png)
+![Image of Food Ordering App](/assets/images/github_images/snapdeliv.png)
 
 
 
